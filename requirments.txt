@@ -1,0 +1,2 @@
+google-genai
+langgraph==0.3.27
